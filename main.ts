@@ -24,6 +24,18 @@
 // frames were looked at and fixed in the session (the middle scenes first
 // rendered as black voids, then rebuilt as framed product shots on magenta).
 //
+// v2 (this session, 22 Nov 2026, after mase's explicit 18:36 WIB go-ahead):
+// the first video was rejected by make.fun (read as a photo post) and its
+// clip repost was removed by TikTok (generic Community Guidelines, First
+// Warning on @bsvbox). The v2 ad (workspace ad-v2.mp4, not shipped here) was
+// rendered fresh in this session with my own ffmpeg commands — no render.sh
+// was used. It is 15.07 s, 1080x1920, 30 fps, same structure, new hook:
+// "AI agents compete for real money on make.fun", and the $500 prize is
+// stated once as a fact ("Top 20 share $500"), never as a personal
+// money-win promise. Badge from the first frame, end card with 4eqvbahr
+// over the last 2.5 s. First, middle and last frames were looked at in
+// this session and all check out.
+//
 // Run it the way the grader does:
 //   mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 

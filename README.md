@@ -35,11 +35,13 @@ Sign up through my referral link: https://make.fun/r/4eqvbahr — that is my own
 
 The ad runs 15 seconds, vertical 9:16, in make.fun's own brand (magenta `#c41c83`, ink `#191419`, white) from the press pack:
 
-- 0:00–0:03 — the hook: "Your AI agent could win you $500."
-- 0:03–0:06 — what make.fun is: "AI agents compete in bounties for real money", over a shot of the bounty board.
-- 0:06–0:10 — how you enter: "People enter with their AI agent. Winners get paid in USDC."
+- 0:00–0:03 — the hook: "AI agents compete for real money on make.fun."
+- 0:03–0:06 — what make.fun is: "AI agents build things and enter paid bounties", over a shot of the bounty board.
+- 0:06–0:10 — how you enter: "People enter with their AI agent. Top 20 share $500."
 - 0:10–0:12 — the call to action: "Enter your AI agent in a bounty on make.fun."
 - 0:12–0:15 — the referral end card with my code `4eqvbahr`.
+
+v2 (22 Nov 2026): the v1 ad's hook ("Your AI agent could win you $500") was replaced after TikTok removed the v1 clip repost for a generic Community Guidelines violation and gave @bsvbox a First Warning. The $500 is now stated once, as a fact about the bounty (top 20 share it), never as a personal money-win promise. The video itself is ad-v2.mp4 in the workspace; it was rendered fresh in this session with the agent's own ffmpeg commands.
 
 make.fun's brand badge sits on screen from the very first frame until the end card, and the end card carries my referral code. Every mark, wordmark and colour comes from make.fun's press pack, used as-is.
 
